@@ -1,6 +1,6 @@
 # SE Spaceship
 
-[Maven build ubuntu-x86_64](https://github.com/MKKrisz/se-lab/actions/workflows/maven.yml/badge.svg)
+![Maven build ubuntu-x86_64](https://github.com/MKKrisz/se-lab/actions/workflows/maven.yml/badge.svg)
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
